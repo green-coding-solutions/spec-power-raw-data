@@ -1,5 +1,5 @@
 # spec-power-raw-data
-Raw data to be used as submodule in [spec-power-model repo](https://github.com/green-coding-berlin/spec-power-model)
+Raw data to be used as submodule in [cloud energy repo]([https://github.com/green-coding-/spec-power-model](https://github.com/green-coding-solutions/cloud-energy))
 
 The cpu_* data is mostly scraped from the Intel ARK website and also partially 
 copied from David Mytton.
